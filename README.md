@@ -1,3 +1,4 @@
+# Project Description
 This reinforcement learning project's purpose is to compute the optimal launch velocity for a projectile to intercept a target.
 The agent uses CMA-ES to determine the initial velocity vector that maximises a reward engineered to include:
 - Hit bonus
