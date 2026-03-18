@@ -18,7 +18,7 @@ After the model's training converges or reaches its stopping conditions (can be 
 - Modify parameters and run with train.py
 
 
-# The parameters of the agent can be modified in agent.py and are:
+# Parameters of the agent:
 
 initial_guess: Initial velocity guess for CMA-ES
 
