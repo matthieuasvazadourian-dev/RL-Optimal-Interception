@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+simulation/*.pyd
+simulation/*.so
+simulation/*.dll
+
+build/
+
+data/*.csv
+
+.vscode/
+.DS_Store
+
+*.code-workspace
