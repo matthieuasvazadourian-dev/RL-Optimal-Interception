@@ -1,4 +1,4 @@
-# Project Description
+## Project Description
 This reinforcement learning project's purpose is to compute the optimal launch velocity for a projectile to intercept a target.
 The agent uses CMA-ES to determine the initial velocity vector that maximises a reward engineered to include:
 - Hit bonus
@@ -14,12 +14,12 @@ After the model's training converges or reaches its stopping conditions (can be 
 
 
 
-# Use
+## Use
 - Use "make" to compile
 - Modify parameters and run with train.py
 
 
-# Parameters of the agent:
+## Parameters of the agent:
 
 initial_guess: Initial velocity guess for CMA-ES
 
